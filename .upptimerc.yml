@@ -26,7 +26,7 @@ status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uniexperiment.github.io/status/
+  cname: uniexperiment.github.io/status
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/UniExperiment/status/master/9.webp
   name: Unicode
