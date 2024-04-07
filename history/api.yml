@@ -1,7 +1,7 @@
 url: https://api.unirev.xyz/
-status: up
-code: 200
-responseTime: 553
-lastUpdated: 2024-04-07T20:30:02.147Z
+status: down
+code: 500
+responseTime: 346
+lastUpdated: 2024-04-07T20:38:50.239Z
 startTime: 2023-04-25T16:34:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
