@@ -4,19 +4,19 @@
     "url": "https://unirev.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/unirev.xyz.ico",
     "slug": "unicode",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-07": 44
+      "2024-04-07": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://setup.unirev.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/setup.unirev.xyz.ico",
     "slug": "client-setup",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.99%",
-    "time": 381,
-    "timeDay": 381,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-07": 43
+      "2024-04-07": 3
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.unirev.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/api.unirev.xyz.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "97.12%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.99%",
-    "time": 381,
-    "timeDay": 381,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-07": 41
+      "2024-04-07": 2
     }
   },
   {
@@ -65,18 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/unirev.xyz.ico",
     "slug": "asset-delivery",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.99%",
-    "time": 1088,
-    "timeDay": 1088,
-    "timeWeek": 1088,
-    "timeMonth": 1088,
-    "timeYear": 1088,
-    "dailyMinutesDown": {
-      "2024-04-07": 57
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
