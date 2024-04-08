@@ -4,11 +4,11 @@
     "url": "https://unirev.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/unirev.xyz.ico",
     "slug": "unicode",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "34.59%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "97.85%",
+    "uptimeDay": "34.27%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.81%",
     "time": 464,
     "timeDay": 464,
@@ -16,7 +16,7 @@
     "timeMonth": 464,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-04-08": 714,
+      "2024-04-08": 719,
       "2024-04-07": 227
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://setup.unirev.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/setup.unirev.xyz.ico",
     "slug": "client-setup",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "34.70%",
-    "uptimeWeek": "90.67%",
+    "uptimeDay": "34.48%",
+    "uptimeWeek": "90.64%",
     "uptimeMonth": "97.85%",
     "uptimeYear": "99.81%",
     "time": 1441,
@@ -37,7 +37,7 @@
     "timeMonth": 1441,
     "timeYear": 1441,
     "dailyMinutesDown": {
-      "2024-04-08": 714,
+      "2024-04-08": 717,
       "2024-04-07": 226
     }
   },
@@ -46,11 +46,11 @@
     "url": "https://api.unirev.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/api.unirev.xyz.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "34.80%",
-    "uptimeWeek": "90.69%",
-    "uptimeMonth": "97.86%",
+    "uptimeDay": "34.69%",
+    "uptimeWeek": "90.67%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.81%",
     "time": 431,
     "timeDay": 431,
@@ -58,7 +58,7 @@
     "timeMonth": 431,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2024-04-08": 714,
+      "2024-04-08": 716,
       "2024-04-07": 224
     }
   },
