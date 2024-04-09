@@ -4,10 +4,10 @@
     "url": "https://unirev.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/unirev.xyz.ico",
     "slug": "unicode",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "27.46%",
-    "uptimeWeek": "80.05%",
+    "uptimeDay": "27.36%",
+    "uptimeWeek": "80.04%",
     "uptimeMonth": "95.41%",
     "uptimeYear": "99.60%",
     "time": 3310,
@@ -16,7 +16,7 @@
     "timeMonth": 3310,
     "timeYear": 3310,
     "dailyMinutesDown": {
-      "2024-04-09": 784,
+      "2024-04-09": 785,
       "2024-04-08": 999,
       "2024-04-07": 227
     }
