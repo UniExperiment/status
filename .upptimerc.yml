@@ -33,7 +33,7 @@ status-website:
   introTitle: "Unicode Status"
   navbar:
     - title: Unicode
-      href: https://www.unicode.xyz
+      href: https://www.unirev.xyz
     - title: Status
       href: /
     - title: GitHub
